@@ -1,0 +1,15 @@
+{
+    "name": "todo-express",
+    "version": "1.0.0",
+    "description": "A simple Todo app using Express and MongoDB",
+    "main": "server.js",
+    "scripts": {
+      "start": "node server.js"
+    },
+    "dependencies": {
+      "express": "^4.17.1",
+      "body-parser": "^1.19.0",
+      "mongoose": "^5.9.7"
+    }
+  }
+  
